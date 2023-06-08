@@ -1,10 +1,10 @@
 # Fog and Dehaze Remover
 
 Project that focueses on:
-1- integrating all the Well known dehazing algorithms to the one porgram 
-2- Relasing our resarch results from this project. 
-3- Gave resarchers a program that can be easly used for resarches
-4- People with hazy images can dehaze their photos and have it from the program
+- integrating all the Well known dehazing algorithms to the one porgram 
+- Relasing our resarch results from this project. 
+- Gave resarchers a program that can be easly used for resarches
+- People with hazy images can dehaze their photos and have it from the program
 
 There are also some clasified aims. Could be anounced at the future. 
 
