@@ -22,9 +22,14 @@ python main.py
 - DCP
 - [Will be continued] 
 
+## Project Leader
+- Yücel ÇİMTAY [Profile](https://github.com/samliumay)
 
-
-
+## Contributors
+•Umay Şamlı [Profile](https://github.com/samliumay)
+•Fatih Mehmet Yiğitel [Profile](https://github.com/fthygtl)
+•Rümeysa ÖZ[Profile](https://github.com/rumeysaoz)
+İhsan Melih Şişman [Profile](https://github.com/Melih5000?tab=repositories)
 
 ### Citations
 - Citation 1 
