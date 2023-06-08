@@ -6,10 +6,6 @@ Project that focuses on:
 -	People with hazy images can dehaze their photos and have it from the program
 -	Releasing our research results from this project.
 
-There are also some classified aims. Could be announced at the future.
-
-
-
 ## To Use:
 ```
 git clone https://github.com/samliumay/Fog_and_Haze_Remover.git
