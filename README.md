@@ -1,4 +1,4 @@
-#Fog and Dehaze Remover
+# Fog and Dehaze Remover
 
 Project that focueses on:
 1- integrating all the Well known dehazing algorithms to the one porgram 
@@ -9,7 +9,7 @@ Project that focueses on:
 There are also some clasified aims. Could be anounced at the future. 
 
 
-To Use:
+## To Use:
 ```
 git clone https://github.com/samliumay/Fog_and_Haze_Remover.git
 cd Fog_and_Haze_Remover
@@ -20,7 +20,7 @@ python main.py
 
 
 
-## Citations
+### Citations
 - Citation 1 
 ```
 @article{ullah2021light,
