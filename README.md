@@ -16,6 +16,12 @@ cd Fog_and_Haze_Remover
 python main.py
 ```
 
+## Currenlty Integrated Algorithms:
+- https://github.com/hayatkhan8660-maker/Light-DehazeNet 
+  * https://ieeexplore.ieee.org/abstract/document/9562276
+- DCP
+- [Will be continued] 
+
 
 
 
@@ -36,4 +42,7 @@ Ullah, H., Muhammad, K., Irfan, M., Anwar, S., Sajjad, M., Imran, A. S., & De Al
 "Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing", 
 IEEE Transactions on Image Processing, 2021.
 ```
-
+- Citation 2
+```
+Empty. If you want to Integrate your algorithm either, contact with: samliumay965@gmail.com
+```
