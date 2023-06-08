@@ -23,7 +23,7 @@ python main.py
 - [Will be continued] 
 
 ## Project Leader
-- Yücel ÇİMTAY [Profile](https://github.com/samliumay)
+- Yücel ÇİMTAY [Profile](https://www.tedu.edu.tr/yucel-cimtay)
 
 ## Contributors
 •Umay Şamlı [Profile](https://github.com/samliumay)
