@@ -97,7 +97,7 @@ class UI(QMainWindow):
     def calculate_the_sucess_rate(self):
 
         try:
-            dehazed_image= cv2.imread('dehazedImage.png')
+            dehazed_image= cv2.imread(os.getcwd()+"/dehazedImages/dehazedImage.png")
             clear_original_image= cv2.imread(thePathOfOriginalImage)
 
             mse_difference_value = difference_betwen_photos_calculated_with_mean_square_error(dehazed_image,
