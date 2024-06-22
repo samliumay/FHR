@@ -1,4 +1,4 @@
-# Fog and Dehaze Remover
+# FHR (Fog and Haze Remover)
 
 Project that focuses on:
 -	integrating all the Well known dehazing algorithms to the one program
